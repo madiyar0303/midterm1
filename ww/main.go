@@ -11,7 +11,7 @@ import (
 
 	_ "github.com/go-sql-driver/mysql"
 )
-
+//midterm 2 start:
 // Define product struct
 type Product struct {
     ID       int
@@ -117,7 +117,7 @@ func getProductsFromDatabase() []Product {
     // ...
     return products
 }
-
+//end
 var tpl *template.Template
 var db *sql.DB
 type User struct {
