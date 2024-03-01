@@ -1,10 +1,6 @@
 # midterm1
 This is midterm 1.2
 
-Teacher I didn't have time to add a video explanation, I'll post it later. If it is possible I would like to protect offline
-
-I also do not have time to finish 2 midterms, so I sent you the preliminary not yet finished code
-
 home page
 
 ![chrome_G70p3XAi0Y](https://user-images.githubusercontent.com/91054941/234017237-70839d0b-4461-478c-a516-cfda13faf67e.png)
